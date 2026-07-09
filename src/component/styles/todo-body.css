@@ -56,3 +56,9 @@ li{
     cursor: pointer;
     padding: 10px;
 }
+
+.no-text{
+    font-weight: bold;
+    text-align: center;
+    color: gray;
+}
